@@ -349,10 +349,6 @@ def search_book_actual(search_title, search):
 			return
 	search_button.grid(row=3, column=0, pady=10)
 	book_not_found.grid(row=4, column=0, pady=10)
-def searching_algo(search_entry, book, my_list):
-	match = 0
-	total = 0
-	accuracy = 0
 
 
 
